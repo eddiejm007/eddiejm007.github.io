@@ -11,6 +11,9 @@ h1 {
 #text23 {
   font-size: 20px; }
 
+p {
+  font-size: 18px !important; }
+
 .s1 {
   background: linear-gradient(to left, #8942a8, #ba382f); }
   .s1 h1 {
@@ -306,7 +309,5 @@ body.fp-viewing-fifthSection-1 #menu li:last-child a {
   right: 0;
   border-color: transparent;
   border: none; }
-
-/******pop-up****/
 
 /*# sourceMappingURL=style.css.map */
