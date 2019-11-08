@@ -8,6 +8,9 @@ body {
 h1 {
   font-family: 'Exo 2', sans-serif; }
 
+#text23 {
+  font-size: 20px; }
+
 .s1 {
   background: linear-gradient(to left, #8942a8, #ba382f); }
   .s1 h1 {
