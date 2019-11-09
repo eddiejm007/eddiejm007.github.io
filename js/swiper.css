@@ -68,8 +68,8 @@
   padding-bottom: 20px; }
 
 .swiper-container-horizontal {
-  width: 600px;
-  height: 500px; }
+  width: 650px;
+  height: 600px; }
   .swiper-container-horizontal > .swiper-pagination-bullets .swiper-pagination-bullet {
     margin: 6 09px;
     position: relative;
@@ -98,7 +98,7 @@
   .swiper-slide .content .title {
     font-size: 20px; }
   .swiper-slide .content .caption {
-    font-size: 10px; } }
+    font-size: 15px; } }
 @media (max-width: 1023px) {
   .swiper-container {
     height: 60vw; }
