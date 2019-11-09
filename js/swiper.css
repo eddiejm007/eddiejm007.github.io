@@ -8,7 +8,7 @@
 
 .swiper-container {
   width: 100%;
-  height: 28vw;
+  height: 35vw;
   transition: opacity .6s ease; }
   .swiper-container.swiper-container-coverflow {
     padding-top: 2%;

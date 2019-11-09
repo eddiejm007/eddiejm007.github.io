@@ -17,9 +17,12 @@ h1{
 }
 
 
+
 .s1{
     background:linear-gradient(to left, #8942a8,#ba382f) ;
-    
+    P{
+		font-size: 18px;
+	}
     
     h1{
         color:white;
@@ -30,7 +33,11 @@ h1{
 .s2{
     background:linear-gradient(to left, #8942a8,#ba382f) ;
 
-    
+	P{
+		font-size: 18px;
+	}
+	
+
     h1{
         color:white;
     }
@@ -52,7 +59,9 @@ hr{
 
 .s3{
    background:linear-gradient(to left, #8942a8,#ba382f) ;
-    
+   P{
+	font-size: 18px;
+}
     
     h1{
 		color:black;
@@ -385,7 +394,7 @@ body.fp-viewing-fifthSection-1 #menu li:last-child a {
 	position: absolute;
 	opacity: 0;
 	top: 0;
-	right: -20px;
+	right: -14px;
 	transition: 0.5s;
 	border-color: transparent;
 	border: none;

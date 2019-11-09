@@ -13,18 +13,17 @@ h1 {
 
 .s1 {
   background: linear-gradient(to left, #8942a8, #ba382f); }
+  .s1 P {
+    font-size: 18px; }
   .s1 h1 {
     color: white; }
 
 .s2 {
   background: linear-gradient(to left, #8942a8, #ba382f); }
+  .s2 P {
+    font-size: 18px; }
   .s2 h1 {
     color: white; }
-
-P{
-  font-size: 18px;
-}
-
 
 hr {
   border-top: 1px double black;
@@ -36,6 +35,8 @@ hr {
 
 .s3 {
   background: linear-gradient(to left, #8942a8, #ba382f); }
+  .s3 P {
+    font-size: 18px; }
   .s3 h1 {
     color: black;
     font-family: 'Exo 2', sans-serif;
@@ -297,7 +298,7 @@ body.fp-viewing-fifthSection-1 #menu li:last-child a {
   position: absolute;
   opacity: 0;
   top: 0;
-  right: -20px;
+  right: -14px;
   transition: 0.5s;
   border-color: transparent;
   border: none; }
