@@ -96,7 +96,8 @@
 
 @media (max-width: 1180px) {
   .swiper-container{
-    height: 65vw;
+    height: 650px;
+    width: 560px;
   }
   .swiper-slide .content .title {
     font-size: 20px; }
