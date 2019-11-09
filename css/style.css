@@ -21,6 +21,11 @@ h1 {
   .s2 h1 {
     color: white; }
 
+P{
+  font-size: 18px;
+}
+
+
 hr {
   border-top: 1px double black;
   height: px;
