@@ -46,7 +46,6 @@
   .swiper-slide{
     background-position:center;
     background-size: cover;
-    width: 100%;
     
    
     
@@ -148,10 +147,7 @@
   
   // Mediaqueries
   @media(max-width:1180px){
-    .swiper-container{
-      height: 600px;
-      width: 400px;
-    }
+    
     .swiper-slide{
       .content{
         .title{
