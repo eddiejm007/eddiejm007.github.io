@@ -21,7 +21,8 @@ p{
 }
 
 .s1{
-    background:linear-gradient(to left, #8942a8,#ba382f) ;
+	background:linear-gradient(to left, #8942a8,#ba382f) ;
+	background: -moz-linear-gradient( to left, #8942a8, #ba382f);
     
     
     h1{
@@ -31,7 +32,8 @@ p{
 }
 
 .s2{
-    background:linear-gradient(to left, #8942a8,#ba382f) ;
+	background:linear-gradient(to left, #8942a8,#ba382f) ;
+	background: -moz-linear-gradient(to left, #8942a8, #ba382f);
 
     
     h1{
@@ -55,6 +57,7 @@ hr{
 
 .s3{
    background:linear-gradient(to left, #8942a8,#ba382f) ;
+   background: -moz-linear-gradient( to left, #8942a8, #ba382f);
     
     
     h1{
