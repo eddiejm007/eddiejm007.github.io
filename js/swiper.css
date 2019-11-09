@@ -24,7 +24,8 @@
 
 .swiper-slide {
   background-position: center;
-  background-size: cover; }
+  background-size: cover;
+  width: 100%; }
   .swiper-slide .entity-img {
     display: none; }
   .swiper-slide .content {
