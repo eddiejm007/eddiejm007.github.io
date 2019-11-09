@@ -10,7 +10,8 @@ h1 {
   font-size: 20px; }
 
 a {
-  color: white; }
+  color: white;
+  font-size: 12px; }
 
 .s1 {
   background: linear-gradient(to left, #8942a8, #ba382f); }
